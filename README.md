@@ -27,7 +27,4 @@ The dataset (`flight_delay_data.csv.xlsx`) contains details such as:
 
 > Make sure the dataset file is in the same directory as the code before running the program.
 
----
-
-:
 
